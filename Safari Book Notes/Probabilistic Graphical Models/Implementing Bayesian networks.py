@@ -53,3 +53,10 @@ model.check_model()
 # we can remove CPDs
 model.remove_cpds('late_for_school')
 model.get_cpds()
+
+# active trail - if an influence can flow in a trail in a network
+help(model.is_active_trail)
+model.is_active_trail('accident', 'rain')
+model.is_active_trail('accident', 'rain',observed='traffic_jam')
+model.is_active_trail('getting_up_late', 'rain')
+model.is_active_trail('getting_up_late', 'rain',observed='late_for_school')
