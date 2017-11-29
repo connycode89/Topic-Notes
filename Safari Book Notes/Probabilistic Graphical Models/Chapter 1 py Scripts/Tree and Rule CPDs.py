@@ -6,7 +6,7 @@ Created on Wed Nov 29 10:28:10 2017
 """
 
 from pgmpy.factors.discrete.CPD import TreeCPD
-from pgmpy.factors.discrete import DiscreteFactor
+from pgmpy.factors.discrete import 
 tree_cpd = TreeCPD([('B', Factor(['A'], [2], [0.8, 0.2]), '0'),
                     ('B', 'C', '1'),
                     ('C', Factor(['A'], [2], [0.1, 0.9]), '0'),
