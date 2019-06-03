@@ -797,3 +797,6 @@ https://github.com/tensorflow/swift/blob/master/docs/WhySwiftForTensorFlow.md
 
 **XGBoost:**
 https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7
+
+**Optimizers:**
+https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b
