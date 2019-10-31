@@ -283,6 +283,7 @@ https://hackingandslacking.com/structured-streaming-with-pyspark-9355f792897a
 https://medium.com/@adilsonbna/twitter-sentiment-analysis-using-azure-databricks-1ddba8a96c13
 https://blog.clairvoyantsoft.com/optimizing-conversion-between-spark-and-pandas-dataframes-using-apache-pyarrow-9d439cbf2010
 https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e
+https://medium.com/@dawid.rutowicz/cleanframes-data-cleansing-library-for-apache-spark-eaae526ee958
 
 **Pytubes:**
 https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73
@@ -806,6 +807,7 @@ https://medium.com/swlh/automating-excel-files-using-pandas-f6c4ec52e49e
 
 **Regex:**
 https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+https://medium.com/better-programming/introduction-to-regex-8c18abdd4f70
 
 **Boxplots:*
 https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51?mkt_tok=eyJpIjoiT1RsaE5ESTBaREk0TURneCIsInQiOiJXcUx6S1NwUjBXYUpDSlhBeSswUUhzaUN3YVBRSURobVwvYzJraXpDUGlob3g2bEE3Wm5DQ01jSSt5a1VNZWhlOXRvcEFWdUJNd0JEekdJZWQxVFh2ajZvb09pQVwvTGVaWkVsNzB1TkFIaEQ3T3ppZjVsUUhiXC9IcnVXN3Y0NFBsRCJ9
