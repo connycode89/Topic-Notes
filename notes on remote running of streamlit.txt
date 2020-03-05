@@ -1,0 +1,14 @@
+https://docs.streamlit.io/tutorial/run_streamlit_remotely.html
+https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
+
+PREREQUISITES:
+1. You have an EC2 instance up and running on AWS.
+2. You know your AWS username, which we’ll call $USERNAME. Often this is something like ubuntu, admin or ec2-user.
+3. You know your instance’s IP address, which we’ll call $IP_ADDRESS. That’s the “IPv4 Public IP” from this page.
+4. Your Streamlit code is already on the remote machine, in a file called my_script.py.
+5. Streamlit installed
+
+PEM Key for AWS instance
+
+ssh -i "[keyname].pem" -o logLevel=ERROR -L 8501:[AWS IP_ADDRESS]:8501 ubuntu@[AWS IP_ADDRESS]
+- use cmder
